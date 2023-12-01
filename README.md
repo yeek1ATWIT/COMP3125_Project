@@ -33,4 +33,7 @@ Inference methods used with difflib:
 
 ## References
 [1] [Crime in Context, 1975-2015](https://www.kaggle.com/datasets/marshallproject/crime-rates)
+
+## Maybe
+https://www.kaggle.com/datasets/khanboss/us-crime-dataset
   
