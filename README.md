@@ -5,7 +5,7 @@ The exploration and analysis of crime helps us understand and address societal p
 
 My objective is to use these patterns in crime to ultimately predict crime and crime rates in the future. Hopefully, this objective will help understand the possible crime and threats of the future. 
 
-[Main Method] (https://github.com/yeek1ATWIT/COMP3125_Project/blob/main/codes/Main.ipynb)
+[Main Method](https://github.com/yeek1ATWIT/COMP3125_Project/blob/main/codes/Main.ipynb)
 
 ## Selection of Data
 
