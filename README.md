@@ -3,7 +3,9 @@
 
 The exploration and analysis of crime helps us understand and address societal problems; this project uses data science to provide further insight as to the possible patterns in crime. The focal point includes analyzing the very city we live in along with analyzing many popular cities spanning the US.
 
-My objective is to use these patterns in crime to ultimately predict crime and crime rates in the future. Hopefully, this objective will help understand the possible crime and threats of the future.
+My objective is to use these patterns in crime to ultimately predict crime and crime rates in the future. Hopefully, this objective will help understand the possible crime and threats of the future. 
+
+[Main Method] (https://github.com/yeek1ATWIT/COMP3125_Project/blob/main/codes/Main.ipynb)
 
 ## Selection of Data
 
