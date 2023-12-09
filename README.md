@@ -14,6 +14,7 @@ The model processing and training are conducted using a Jupyter Notebook.
 The dataset is called [Crime in Context](https://www.kaggle.com/datasets/marshallproject/crime-rates)[1]. This dataset contains over 40 years of homicide, rape, robbery and assault crimes across 68 police jurisdictions with populations of 250,000 or greater.
 
 Data Preview:
+![data screenshot](./graph/Dataset_Preview.png)
 
 This dataset was modified to exclude any illegal values including blank and NAN values.
 
